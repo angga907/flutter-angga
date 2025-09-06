@@ -1,16 +1,30 @@
-# flutter_application_1
+# 📱 Flutter Layout
 
-A new Flutter project.
+Proyek ini adalah contoh dasar **Flutter Layout** untuk membantu memahami cara membangun tampilan aplikasi dengan Flutter.  
+Cocok digunakan sebagai titik awal dalam mengembangkan aplikasi Flutter baru.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Berikut lampiran Screenshot latihan Flutter
 
-A few resources to get you started if this is your first Flutter project:
+### 📌 Tampilan Menu
+![Menu](gambar/menu.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 📌 Tampilan Scaffold
+![Scaffold](gambar/menu1.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 📌 Tampilan Row
+![Row](gambar/menu2.png)
+
+### 📌 Tampilan Column
+![Column](gambar/menu3.png)
+
+### 📌 Tampilan Container
+![Container](gambar/menu4.png)
+
+### 📌 Tampilan Strawberi Pavlova
+![Strawberi Pavlova](gambar/menu5.png)
+
+### 📌 Tampilan Gunung Layout
+![Gunung Layout](gambar/menu6.png)
+---
